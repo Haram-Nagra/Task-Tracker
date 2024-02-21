@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_task">Create Task</string>
+    <string name="view_tasks">View Tasks</string>
+    <string name="edit_tasks">Edit Tasks</string>
+    <string name="reports">Reports</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="task_tracker">Task tracker</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+    <string name="register1">Register</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_options">
+        <item>Select a category</item>
+        <item>Completed</item>
+        <item>In Progress</item>
+        <item>Not Started</item>
+    </string-array>
+</resources>
